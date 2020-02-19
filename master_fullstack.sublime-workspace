@@ -1,0 +1,847 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"eje",
+				"ejecutar"
+			],
+			[
+				"se",
+				"section-video"
+			],
+			[
+				"s",
+				"space-around\tjustify-content"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"CONT",
+				"contacto"
+			],
+			[
+				"co",
+				"contacto"
+			],
+			[
+				"back",
+				"background-repeat\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"o",
+				"opacity\tproperty"
+			],
+			[
+				"borde",
+				"border-bottom\tproperty"
+			],
+			[
+				"MARGI",
+				"margin-right\tproperty"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"c",
+				"c29d63"
+			],
+			[
+				"contenedor",
+				"contenedor"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"pre",
+				"precio"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"li",
+				"list-style\tproperty"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"backgro",
+				"background\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"bac",
+				"background-repeat\tproperty"
+			],
+			[
+				"bacg",
+				"background-size\tproperty"
+			],
+			[
+				"BACKGR",
+				"background-position\tproperty"
+			],
+			[
+				"backgr",
+				"background\tproperty"
+			],
+			[
+				"backg",
+				"background-position\tproperty"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"linear",
+				"linear-gradient"
+			],
+			[
+				"mari",
+				"margin-left\tproperty"
+			],
+			[
+				"conte",
+				"contenedor"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"menu",
+				"menu-icon"
+			],
+			[
+				"eler",
+				"elegirnos"
+			],
+			[
+				"ser",
+				"servicios"
+			],
+			[
+				"im",
+				"imagenes"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"mensaje",
+				"mensaje4"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"con",
+				"contenedor"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"ani",
+				"animation-duration\tproperty"
+			],
+			[
+				"test",
+				"text-align-last\tproperty"
+			],
+			[
+				"tet",
+				"text-decoration\tproperty"
+			],
+			[
+				"mr",
+				"margin\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"htm",
+				"htmlcaption"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"nivo",
+				"nivoSlider"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"ania",
+				"animated"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"prod",
+				"productos"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"n",
+				"n2"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"number",
+				"number2"
+			],
+			[
+				"numb",
+				"number1"
+			],
+			[
+				"nu",
+				"num2"
+			],
+			[
+				"num",
+				"num1"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"oper",
+				"operaciones"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/wamp/www/miah/index.php",
+			"settings":
+			{
+				"buffer_size": 9413,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/miah/estilos.css",
+			"settings":
+			{
+				"buffer_size": 7721,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "body{"
+			}
+		},
+		{
+			"file": "/C/wamp/www/miah/producto.php",
+			"settings":
+			{
+				"buffer_size": 917,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog-angular/angular.json",
+			"settings":
+			{
+				"buffer_size": 4058,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog-angular/src/app/models/category.ts",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/proyecto/index.php",
+			"settings":
+			{
+				"buffer_size": 15048,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/master-fullstack",
+		"/C/wamp/www/master-fullstack/blog-angular",
+		"/C/wamp/www/master-fullstack/blog-angular/src",
+		"/C/wamp/www/master-fullstack/blog-angular/src/app",
+		"/C/wamp/www/master-fullstack/blog-angular/src/app/models"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/master-fullstack/blog-angular/src/app/models/user.ts",
+		"/C/wamp/www/miah/buscar.php",
+		"/C/wamp/www/proyecto/database.php",
+		"/C/wamp/www/miah/database_2.php",
+		"/C/wamp/www/miah/formulario.php",
+		"/C/wamp/www/miah/database.php",
+		"/C/wamp/www/miah/producto.php",
+		"/C/wamp/www/proyecto/mienvio_formulario.php",
+		"/C/wamp/www/proyecto/estilos.css",
+		"/C/wamp/www/miah/mienvio_formulario.php",
+		"/C/wamp/www/restaurant/estilos.css",
+		"/C/wamp/www/restaurant/index.html",
+		"/C/wamp/www/master-fullstack/blog-angular/node_modules/@angular/common/bundles/common-upgrade.umd.min.js",
+		"/C/wamp/www/proyecto/index.php",
+		"/C/wamp/www/hosting/index.php",
+		"/C/wamp/www/restaurant/ESTILOS.CSS",
+		"/C/wamp/www/miah/estilos-2.css",
+		"/C/Users/TERRALOGISTIG/Downloads/buscador/buscador.php",
+		"/C/Users/TERRALOGISTIG/Downloads/buscador/index.html",
+		"/C/Users/TERRALOGISTIG/Downloads/buscador/class/books.php",
+		"/C/wamp/www/miah/productos.php",
+		"/C/wamp/www/master-fullstack/blog-angular/node_modules/core-js/modules/esnext.aggregate-error.js",
+		"/C/Users/TERRALOGISTIG/AppData/Local/Temp/7zO03EFF454/index.html",
+		"/C/wamp/www/index.php",
+		"/C/wamp/htdocs/index.html",
+		"/C/wamp/www/hosting/estilos.css",
+		"/C/wamp/www/master-fullstack/blog-angular/node_modules/babel-runtime/node_modules/core-js/client/shim.js",
+		"/C/wamp/www/hosting/script.js",
+		"/C/wamp/www/master-fullstack/blog-angular/package.json",
+		"/C/wamp/www/master-fullstack/blog-angular/src/app/app.component.html",
+		"/C/wamp/www/master-fullstack/blog-angular/src/app/app.component.ts",
+		"/C/wamp/www/proyecto/script.js",
+		"/C/wamp/www/htdocs/estilos.css",
+		"/C/wamp/www/htdocs/mienvio_formulario.php",
+		"/C/wamp/www/htdocs/index.php",
+		"/C/CURSO_WEB_UDEMY/estilos.css",
+		"/C/CURSO_WEB_UDEMY/index.html",
+		"/C/xampp/htdocs/miah.php",
+		"/C/xampp/htdocs/footer.php",
+		"/C/xampp/htdocs/slider.php",
+		"/C/xampp/htdocs/CSS/nivo-slider.css",
+		"/C/xampp/htdocs/CSS/slider.css",
+		"/C/xampp/htdocs/CSS/productos.css",
+		"/C/xampp/htdocs/productos.php",
+		"/C/xampp/htdocs/js/formulario_1.js",
+		"/C/xampp/htdocs/producto_1.css",
+		"/C/xampp/htdocs/producto_1.php",
+		"/C/xampp/htdocs/CSS/mah.css",
+		"/C/xampp/htdocs/contacto.php",
+		"/C/xampp/htdocs/validamiah.php",
+		"/C/xampp/htdocs/conexionmiah.php",
+		"/C/xampp/htdocs/dbmiah.php",
+		"/C/xampp/htdocs/insertarmiah.php",
+		"/C/xampp/htdocs/CSS/estilo.css",
+		"/C/xampp/htdocs/biblioteca.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/index1.php",
+		"/C/xampp/htdocs/biblioteca1.php",
+		"/C/xampp/htdocs/evidencia2_DavidQuintero.php",
+		"/C/xampp/htdocs/ejemplo_4.php",
+		"/C/xampp/htdocs/ejemplo_4_Biblioteca.php",
+		"/C/xampp/htdocs/bibliotec.php",
+		"/C/xampp/htdocs/ejemplo_1.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"menu",
+			"contenedor-menu",
+			"#74DDE8",
+			"tabla",
+			"table",
+			"uno",
+			"whatsa",
+			"submit",
+			"#74DDE8"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/wamp/www/miah/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7134,
+								7134
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2522.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/wamp/www/miah/estilos.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6504,
+								6504
+							]
+						],
+						"settings":
+						{
+							"auto_name": "body{",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6075.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/wamp/www/miah/producto.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 917,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "blog-angular/angular.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4058,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1089,
+								1089
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "blog-angular/src/app/models/category.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/wamp/www/proyecto/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15048,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11085,
+								11063
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4343.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "master_fullstack.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"$$parse"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
